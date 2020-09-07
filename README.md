@@ -16,4 +16,4 @@ Conclusion:
 The goals of the lab is to introduce us into programming. Programming is needed in world security because there are situations where you will need to code. I feel comfortable with these tools, but I still need to get used to them.  I feel the lab is somehwta difficult because I hae to teach myself and go off what other students are doing from the slack. I know it would be easier if it was in person, but unfortunately that is not the case. I would like to learn more C or Java later on in the semester.
 
 References:
-I have used some of the students slack responses for some assistance and mainly Github.  Mariana, Alfredo, Ms.Mitra and Ms.Collazo have helped me on the lab. I have also used Dario's video.
+I have used some of the students slack responses for some assistance and mainly Github.  Mariana, Alfredo, Ms.Mitra and Ms.Collazo have helped me on the lab. I have also used Dario's video that he posted.
